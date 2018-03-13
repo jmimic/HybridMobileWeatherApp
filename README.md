@@ -1,7 +1,7 @@
 # HybridMobileWeatherApp
 Built with Ionic and Cordova with Angular4 and Node.js<br>
 <br>
-!! Fixes required:
+!! Fixes required: <br>
 !! Build app with ionic production release build (makes app load significantly faster)<br>
 !! Drawback: As of yet not interested as it is a small weather app and working on learning more technologies<br>
 !! Time consuming to generate key, sign app, and zip apk<br>
